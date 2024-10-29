@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+files:
+  - source: dist/shop/
+    destionation: /var/www/html/
+flie_exists_behavior: OVERWRITE
