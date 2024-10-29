@@ -13,6 +13,9 @@ phases:
       #获取编译源码用的依赖库（自动获取）
       - npm install
       - echo npm run build completed on `date`
+      #进行编译
+      - npm run build
+      - echo upm run build completed on `date`
   post_build:
     commands:
       - echo Build completed on `date`
