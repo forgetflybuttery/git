@@ -24,4 +24,4 @@ artifacts:
     files:
       - dist/shop/*
       - dist/shop/assets/*
-      - appsepc.yml
+      - appspec.yml
