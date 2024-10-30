@@ -24,8 +24,4 @@ artifacts:
     files:
       - dist/shop/*
       - dist/shop/assets/*
-<<<<<<< HEAD:buildspec.yaml
       - appspec.yml
-=======
-      - appsepc.yml
->>>>>>> 4e6d71a3768fd5ea2e195e28de1a434f478a4831:buildspec.yml
